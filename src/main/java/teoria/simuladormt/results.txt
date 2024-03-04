@@ -1,0 +1,3 @@
+a - Rejected
+ab - Rejected
+abab - Rejected
